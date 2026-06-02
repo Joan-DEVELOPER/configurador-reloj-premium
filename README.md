@@ -54,6 +54,3 @@ Con el propósito de optimizar la eficiencia en la transferencia de datos y aseg
     Estrato Superior: Esfera / Dial de color seleccionado.
 
 Impacto de la Solución: Reducción drástica del volumen de recursos multimedia requeridos (de 27 imágenes combinadas a únicamente 9 recursos independientes), facilitando la inserción de efectos de transición individuales por componente físico.
-
-### 5. Proceso de instalación y configuración local
-Por definir
